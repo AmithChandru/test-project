@@ -1,0 +1,32 @@
+.buyContainer {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-self: center;
+  text-align: left;
+}
+
+.shoeDetails {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.addCartButton {
+  width: 200px;
+  height: 20px;
+  align-self: center;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.titleHead {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.details {
+  font-size: 15px;
+  margin-bottom: 5px;
+}

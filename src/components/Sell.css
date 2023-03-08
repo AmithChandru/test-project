@@ -1,0 +1,35 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-self: center;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.quantityContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.quantities {
+  display: flex;
+  flex-direction: column;
+}
+
+.sizeInput {
+  width: 40px;
+}
+
+label {
+  margin-top: 10px;
+}
+
+.submitButton {
+  width: 200px;
+  height: 20px;
+  align-self: center;
+  margin-top: 20px;
+  cursor: pointer;
+}

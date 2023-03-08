@@ -1,0 +1,8 @@
+.cartContainer {
+  width: 400px;
+  position: fixed;
+  right: 0;
+  background-color: white;
+  height: 500px;
+  border: 1px solid black;
+}
